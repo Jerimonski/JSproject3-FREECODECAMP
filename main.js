@@ -4,7 +4,7 @@ const clear_btn = document.getElementById('clear_btn');
 const number_validated_box = document.getElementById('number_validated_box');
 
 
-// to certificate if there is a input
+// to certificate if there is a input a
 // return is wrong
 // if (number === '') {
 //     alert("Please provide a phone number");
