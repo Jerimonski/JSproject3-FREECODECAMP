@@ -8,7 +8,6 @@ const number_validated_box = document.getElementById('number_validated_box');
 // return is wrong
 // if (number === '') {
 //     alert("Please provide a phone number");
-//     return; 
 // }
 
 // add label valid or not number

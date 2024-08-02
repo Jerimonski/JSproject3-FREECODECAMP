@@ -25,10 +25,10 @@ main{
 }
 
 .Telephone{
-    position: relative;
     width: 300px;
     height: 400px;
     border-radius: 3rem;
+    overflow-y: auto;
     border: .4rem solid hsl(60, 100%, 59%);
     background-color: #616161;
 }
