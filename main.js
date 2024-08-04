@@ -7,6 +7,7 @@ const number_validated_box = document.getElementById('number_validated_box');
 const check_valid_number = input => {
     if (input === ''){
         alert("Please provide a phone number");
+        return;
     }
     const countryCode = '^(1\\s?)?';
     const areaCode = '(\\([0-9]{3}\\)|[0-9]{3})';
